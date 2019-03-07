@@ -1,3 +1,7 @@
 This is Raghu
 I am doing some testing
+<<<<<<< HEAD
 This is not effective tutorial
+=======
+i am not bad boy
+>>>>>>> mybranch
